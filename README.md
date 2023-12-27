@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
-<h3 align="center">A passionate developer, crypto enthusiast and a learner by heart.</h3>
+<h3 align="center">A passionate developer, crypto enthusiast, and a learner by heart.</h3>
 <img align=right width=400 src="https://th.bing.com/th/id/R.48db58b08ec6018150e20ad06bb3c6da?rik=%2fN3XYgNx7sPc2w&riu=http%3a%2f%2flifeismelody.com%2fwp-content%2fuploads%2f2014%2f03%2fDCM-toon-960x595.jpg&ehk=c6V55BKAqg%2fRQUQepWesY8BtpWYaI%2f015XPlxZh8kqs%3d&risl=&pid=ImgRaw&r=0">
 
 - 🔭 I’m currently working on **Building a Resume portfolio**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **Scala and spark**
 
 - 📫 How to reach me **adityaverma4545@gmail.com**
 
-- ⚡ Fun fact **I love scrolling through memes and reading stuff that is totally unrelated to my field.**
+- ⚡ Fun fact **I love scrolling through memes and reading stuff unrelated to my field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
